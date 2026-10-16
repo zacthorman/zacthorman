@@ -1,6 +1,6 @@
 ### Isaac (Zac) Thorman
 
-Economics graduate from the University of Nottingham, working in tech recruitment and research in London. In the evenings I build analytical tools in Python and then test whether they actually work, which is usually the more interesting half.
+Economics graduate from the University of Nottingham, working in tech research in London. In the evenings I build analytical tools in Python and then test whether they actually work, which is usually the more interesting half.
 
 [**CV and portfolio**](https://zacthorman.github.io) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/isaacthorman) &nbsp;·&nbsp; [zdthorman@gmail.com](mailto:zdthorman@gmail.com)
 
